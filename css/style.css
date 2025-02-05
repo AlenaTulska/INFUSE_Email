@@ -1,0 +1,36 @@
+.wrapper {
+    margin: 0 auto;
+    max-width: 600px;
+    background: url('../EmailTemplate/bg-image.png')
+                url('../EmailTemplate/Polygon1.png'); 
+}
+
+h1 {
+font-weight: 800;
+font-size: 24px;
+text-align: center;
+color: #2d2994;
+}
+
+.fir {
+    display: flex;
+
+}
+
+.blue {
+    max-width: 72px;
+    background: #22379e;
+    position: relative;
+}
+.purple {
+    max-width: 72px;
+    background: #4a2f63;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    
+}
+  
+.fp {
+    max-width:340px;
+}
